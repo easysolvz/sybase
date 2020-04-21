@@ -1,1 +1,2 @@
 This is file two.
+comment added in feature 2.0.
